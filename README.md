@@ -1,2 +1,2 @@
-# Demo: 503661642.github.io/Game-Of-Life/
+# Demo: haoxu13.github.io/Game-Of-Life/
 
